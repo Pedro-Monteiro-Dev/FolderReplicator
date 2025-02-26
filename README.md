@@ -27,12 +27,19 @@ python program.py [path to source folder] [path to replica folder] [interval tim
 
 
 ### Example for Quick Testing: 
-Tip: You can copy-paste this directly into your command line and try out the script.
+Tip: You can copy-paste this directly into your command line and try out the script. For this example, make sure you navigate to the directory where the script is saved using your command line (e.g., with the cd command)
 
 ```bash
 python program.py source replica 3 logfile.txt
 ```
 
+### Step 1:
+Open the command line, make sure the directory is where the script is saved. You can use the cd command, or right click and choose "Open In Terminal" like shown below.
+
+![image](https://github.com/user-attachments/assets/dda9f6b1-fce5-4053-9dbc-f7a7115224d9)
+
+### Step 2:
+Paste the command and have fun!
 
 ![image](https://github.com/user-attachments/assets/6fd307c2-099f-42f7-8d25-fb69953aaa91)
 
