@@ -9,8 +9,11 @@ Python script for synchronizing two folders! This tool can be used to create a b
 - Is able to detect and update new, modified, or deleted files.
 - Provides logging of the synchronization tasks.
 
+## Requirements:
+- Python 3.x
+
 ## Installation:
-- Clone this repository or download the Python script.
+Clone this repository or download the Python script.
 
 ## How To Run:
 
