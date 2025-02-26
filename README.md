@@ -13,7 +13,7 @@ Python script for synchronizing two folders! This tool can be used to create a b
 - Python 3.x
 
 ## Installation:
-Clone this repository or download the Python script.
+- Clone this repository or download the Python script.
 
 ## How To Run:
 
