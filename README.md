@@ -44,6 +44,8 @@ Paste the command and have fun!
 ![image](https://github.com/user-attachments/assets/6fd307c2-099f-42f7-8d25-fb69953aaa91)
 
 
+### Closing The Program:
+To stop the script, press Ctrl + C in the command line.
 
 
 
