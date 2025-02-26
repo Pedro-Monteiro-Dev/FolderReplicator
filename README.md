@@ -20,11 +20,12 @@ Python script for synchronizing two folders! This tool can be used to create a b
 ### You can run the program by using the command line with the following syntax: 
 
 ```bash
-python program.py [path to source] [path to replica] [interval time (in seconds)] [path to logfile]
+python program.py [path to source folder] [path to replica folder] [interval time (in seconds)] [path to logfile]
 ```
 (You can use relative paths or absolute paths, both will work).
 
-### Example: 
+### Example for Quick Testing: 
+Tip: You can copy-paste this directly into your command line and try out the script.
 
 ```bash
 python program.py source replica 3 logfile.txt
